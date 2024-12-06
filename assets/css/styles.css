@@ -516,12 +516,12 @@ body.dark-theme {
 }
 
 .message__button {
-  background-color: var(--title-color);
+  background-color: green;
   width: 100%;
 }
 
 .message__button:hover {
-  background-color: var(--title-color);
+  background-color: green;
 }
 
 .message__img {
